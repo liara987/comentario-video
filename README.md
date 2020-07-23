@@ -6,5 +6,5 @@
  - Execute o comando **npm start**
  - Veja o projeto radar em **http://localhost:3000/**
 
-[![N|Solid]()]()
+[![N|Solid](https://raw.githubusercontent.com/liara987/comentario-video/master/screenshot.png)](https://raw.githubusercontent.com/liara987/comentario-video/master/screenshot.png)
 
